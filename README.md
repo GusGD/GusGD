@@ -1,9 +1,10 @@
 ### Be welcome !! It's all simple, but made from the ❤️
 
 <div align="center">
-  <a href="https://github.com/GusGD"> </a> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GusGD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGD&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/GusGD"> 
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GusGD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGD&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
   <hr />
 <div style="display: inline_block"><br>
