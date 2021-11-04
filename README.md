@@ -1,7 +1,7 @@
 ### Be welcome !! It's all simple, but made from the ❤️
 
 <div align="center">
-  <a href="https://github.com/GusGD">
+  <a href="https://github.com/GusGD"> </a> 
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GusGD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGD&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -19,8 +19,7 @@
 </div>  
 <hr />
 <div> <br>
-  <a href="www.linkedin.com/in/dev-gustavo-oliveira/" target="_blank">
+  <a href="www.linkedin.com/in/dev-gustavo-oliveira" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
- 
 </div>
