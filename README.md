@@ -3,7 +3,7 @@ Everything here is simple, but made from the ❤️ with dedication.
 
 <div align="center">
   <a href="https://github.com/GusGD">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGD&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGD&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -28,6 +28,16 @@ Everything here is simple, but made from the ❤️ with dedication.
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <!-- Java -->
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <!-- Docker -->
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <!-- Git -->
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <!-- Tailwind CSS -->
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <!-- PostgreSQL -->
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <!-- MongoDB -->
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
 ---
